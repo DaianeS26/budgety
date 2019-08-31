@@ -1,1 +1,3 @@
-# budgety
+# Budgety
+
+JavaScript project.
